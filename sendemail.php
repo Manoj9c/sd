@@ -9,7 +9,7 @@
 	$headers = 'MIME-Version: 1.0'."\r\n";
 	$headers .= 'From: webmaster@bcdental.com'."\r\n";
 	$headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
-	$headers .= 'Bcc:rskumar@9ciphers.com'."\r\n";
+	$headers .= 'Bcc:pankajsing9c@gmail.com'."\r\n";
 
 	$msg  = "<html><body style='font-family:Arial,sans-serif;'>";
 	$msg  = "<div style='width:625px;background-color: #F5FFFE;border: 2px solid#FFE098;color: #00343A;font-family:14px;padding:10px;'>";
