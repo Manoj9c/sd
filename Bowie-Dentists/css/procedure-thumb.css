@@ -1,0 +1,55 @@
+/*# sourceMappingURL=bootstrap.css.map */
+.carousel-control 			 { width:  4%; }
+.carousel-control.left{margin-left:-50px;background-image:none;}
+.carousel-control.right{margin-right:-50px;background-image:none;}
+.carousel-control.left i{color: #008D38;font-size: 40px;}
+.carousel-control.right i{color: #008D38;font-size: 40px;}
+@media (max-width: 767px) {
+	.carousel-inner .active.left { left: -100%; }
+	.carousel-inner .next        { left:  100%; }
+	.carousel-inner .prev		 { left: -100%; }
+	.active > div { display:none; }
+	.active > div:first-child { display:block; }
+	.carousel-control.left{margin-left:20px;background-image:none;}
+	.carousel-control.right{margin-right:20px;background-image:none;}
+
+}
+@media (min-width: 767px) and (max-width: 992px ) {
+	.carousel-inner .active.left { left: -50%; }
+	.carousel-inner .next        { left:  50%; }
+	.carousel-inner .prev		 { left: -50%; }
+	.active > div { display:none; }
+	.active > div:first-child { display:block; }
+	.active > div:first-child + div { display:block; }
+}
+@media (min-width: 992px ) {
+	.carousel-inner .active.left { left: -16.7%; }
+	.carousel-inner .next        { left:  16.7%; }
+	.carousel-inner .prev		 { left: -16.7%; }	
+}
+.servlink{padding: 1em;margin-bottom: 10px;font-size: 100%;font-weight:normal;}
+.fb{padding: 1em;margin-bottom: 10px;font-size: 100%;background-color: #1561B8;font-weight:normal;}
+.twit{padding: 1em;margin-bottom: 10px;font-size: 100%;background-color: #0BC7E9;font-weight:normal;}
+.google{padding: 1em;margin-bottom: 10px;font-size: 100%;background-color: #DB3A30;font-weight:normal;}
+#procedure img{height:150px;}
+#procedure h3{text-align:center;}
+#procedure p{text-align:center;}
+.well h2 {
+margin-top: 10px!important;
+}
+.btn-success {
+color: #3E8F3E;
+text-shadow: none;
+box-shadow: none;
+font-weight:100;
+}
+.btn-success {
+background-color: transparent;
+border-color: #3E8F3E;
+background-image: none;
+}
+.price
+{color: #0066B4;
+}
+.price > tbody > tr > td{border: 1px solid #B2DDFF;}
+p span{color: #0066B4;}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>Locations for Superior Cosmetic & Family Dentistry .</name>
+		<atom:author>
+			<atom:name>9ciphers</atom:name>
+		</atom:author>
+		<atom:link rel="related" href="http://www.superior-dentistry.com" />
+		<Folder>
+			<Placemark>
+				<name><![CDATA[Superior Cosmetic ]]></name>
+				<address><![CDATA[3327 Superior Lane, Suite 101, Bowie, Maryland MD, 20715, United States]]></address>
+				<description><![CDATA[Dentist, Cosmetic dentistry,Dental implants,family dentistry,Periodontal Services (Deep-Cleaning),extraction,Invisalign,Dentures,Root Canals,Kor Whitening,Dental crowns,Bridges,Night Guard,Restorations,Snap-On smile,Lumineers,Veneers,Implants<br />
+<br />
+]]></description>
+				<Point>
+					<coordinates>-76.7323473,38.9789323,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

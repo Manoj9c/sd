@@ -1,0 +1,126 @@
+body {
+  padding-top: 70px;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+#bg {
+height: auto !important;
+min-height: 100%;
+background-color: #fff;
+}
+.logoimg
+{
+margin-bottom: 5px;
+box-shadow: none;
+border: none;
+}
+.meetdr
+{
+box-shadow: none;
+background: none;
+border: none;
+  padding: 5px 0px 0px 0px;
+width: 100%;
+border-radius: 15px;
+}
+footer
+{
+  background-color: #240028;
+  padding: 0px 0 5px 0;
+  color: #F8F8F8;
+  border-top: 4px solid #670074;
+}
+footer h5
+{
+color: #88FFBA;
+/* font-weight: 600; */
+font-size: 21px;
+margin-bottom: 20px;
+}
+ul.link-list {
+margin: 0;
+padding: 0;
+list-style: none;
+}
+ul.link-list li {
+margin: 0;
+padding: 2px 0 2px 0;
+list-style: none;
+}
+footer ul.link-list li a {
+color: #FFF;
+}
+#sub-footer {
+text-shadow: none;
+color: #F5F5F5;
+font-family: 'Questrial', sans-serif;
+padding: 0;
+padding-top: 10px;
+margin: 0px 0px 0px 10px;
+}
+.copyright {
+text-align: left;
+font-size: 15px;
+}
+.copyright a:hover
+{color: #71FEAB;}
+#sub-footer p {
+margin: 0;
+padding: 0;
+}
+#sub-footer span {
+color: #F5F5F5;
+}
+footer a {
+color: #FFF;
+}
+#sub-footer ul.social-network {
+float: right;
+}
+ul.social-network {
+list-style: none;
+margin: 0;
+}
+ul.social-network li {
+display: inline;
+margin: 0 5px;
+}
+footer .widgetheading {
+position: relative;
+}
+.well h2{margin-top: 0px;}
+blockquote {
+  background: #f9f9f9;
+  border-left: 3px solid #1E7EC0;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote p {
+  display: inline;
+}
+#map_canvas {
+  /*border: 3px solid rgba(111, 111, 111, 0.24);*/
+}
+footer  .foot{padding-right: 15px;padding-left: 15px;}
+.smallheader{font-size: 23px;
+color: #0066B4;}
+.date{font-weight: 700;
+color: #666;}
+.contact-form h4{margin-top: 0px;}
+.add
+{
+margin-bottom: 10px;
+}
+.mainimg{border-radius: 15px;}
+.servimg{width:400px;margin:0 auto;}
